@@ -6,7 +6,7 @@ The front end is inside the folder client
 
 This full app can be found [here](https://smart-brain-v.herokuapp.com/)
 
-### Note: keep in mind that this app is linked to my data
+### Note: keep in mind that this app is linked to my data-base
 
 ## Usage
 npm install
