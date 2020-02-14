@@ -1,3 +1,14 @@
-##Smart Brain App
+# Smart Brain App
 
-This is a Full Stack Web App, build with Reactjs, Context & useContext / useReducer Hooks in front-end and with Express and MongoDB in the back-end. 
+This is a Full Stack Web App, build with Reactjs, Context & useContext / useReducer Hooks in front-end and with Express and MongoDB in the back-end.
+
+The front end is inside the folder client 
+
+This full app can be found [here](https://github.com/vercettizarak/contact-kepper-server)
+
+### Note: keep in mind that this app is linked to my data
+
+## Usage
+npm install
+
+npm start
