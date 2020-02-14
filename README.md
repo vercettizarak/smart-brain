@@ -4,7 +4,7 @@ This is a Full Stack Web App, build with Reactjs, Context & useContext / useRedu
 
 The front end is inside the folder client 
 
-This full app can be found [here](https://github.com/vercettizarak/contact-kepper-server)
+This full app can be found [here](https://contact-kepper-v.herokuapp.com/)
 
 ### Note: keep in mind that this app is linked to my data
 
