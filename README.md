@@ -1,6 +1,6 @@
 # Smart Brain App
 
-This is a Full Stack Web App</strong>, build with Reactjs, in front-end and with Express and PostgreSQL in the back-end and using Clarify API to do facial recognition.
+This is a Full Stack Web App, build with Reactjs, in front-end and with Express and PostgreSQL in the back-end and using Clarify API to do facial recognition.
 
 The front end is inside the folder client 
 
